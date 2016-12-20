@@ -1,0 +1,17 @@
+{
+  "version": "1.1.0",
+  "windows": {
+    "main": {
+      "x": 43,
+      "y": 38,
+      "width": 1237,
+      "height": 720
+    },
+    "worker": {
+      "x": 440,
+      "y": 228,
+      "width": 400,
+      "height": 300
+    }
+  }
+}

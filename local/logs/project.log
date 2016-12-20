@@ -1,0 +1,52 @@
+2016-12-20T12:18:51.871Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-20T12:18:51.876Z - normal: checking language setting...
+2016-12-20T12:18:51.876Z - normal: Language: zh
+2016-12-20T12:18:51.907Z - success: protocol editor-framework registered
+2016-12-20T12:18:51.908Z - success: protocol app registered
+2016-12-20T12:18:51.908Z - success: protocol packages registered
+2016-12-20T12:18:51.908Z - success: protocol theme registered
+2016-12-20T12:18:51.908Z - success: protocol unpack registerred
+2016-12-20T12:18:52.466Z - normal: connected!
+2016-12-20T12:18:52.472Z - normal: Check project /Users/wangqiyuan/git/thief-tower-defense
+2016-12-20T12:18:52.475Z - normal: Initializing Cocos Creator Editor
+2016-12-20T12:18:52.716Z - normal: Initializing Cocos2d
+2016-12-20T12:18:52.840Z - normal: Initializing Asset Database
+2016-12-20T12:18:52.858Z - success: protocol uuid registerred
+2016-12-20T12:18:52.858Z - success: protocol db registerred
+2016-12-20T12:18:52.858Z - success: protocol thumbnail registerred
+2016-12-20T12:18:52.859Z - normal: Loading editor/builtin packages
+2016-12-20T12:18:52.955Z - success: assets loaded
+2016-12-20T12:18:52.959Z - success: builder loaded
+2016-12-20T12:18:52.963Z - success: hierarchy loaded
+2016-12-20T12:18:52.966Z - success: inspector loaded
+2016-12-20T12:18:52.968Z - success: keystore loaded
+2016-12-20T12:18:52.971Z - success: node-library loaded
+2016-12-20T12:18:52.975Z - success: preferences loaded
+2016-12-20T12:18:52.987Z - success: project-importer loaded
+2016-12-20T12:18:52.990Z - success: project-settings loaded
+2016-12-20T12:18:52.993Z - success: ui-kit loaded
+2016-12-20T12:18:52.997Z - success: ui-grid loaded
+2016-12-20T12:18:53.001Z - success: scene loaded
+2016-12-20T12:18:53.002Z - success: sprite-editor loaded
+2016-12-20T12:18:53.007Z - success: timeline loaded
+2016-12-20T12:18:53.007Z - normal: Loading builtin packages
+2016-12-20T12:18:53.011Z - success: asset-db-debugger loaded
+2016-12-20T12:18:53.012Z - success: code-editor loaded
+2016-12-20T12:18:53.013Z - success: color-picker loaded
+2016-12-20T12:18:53.017Z - success: console loaded
+2016-12-20T12:18:53.020Z - success: package-manager loaded
+2016-12-20T12:18:53.023Z - success: tester loaded
+2016-12-20T12:18:53.026Z - success: ui-kit-preview-extra loaded
+2016-12-20T12:18:53.029Z - success: ui-kit-preview loaded
+2016-12-20T12:18:53.032Z - success: ui-tree loaded
+2016-12-20T12:18:53.058Z - normal: Initializing project /Users/wangqiyuan/git/thief-tower-defense
+2016-12-20T12:18:53.060Z - warn: Profile local-local warning: reset profile field: last-edit
+2016-12-20T12:18:53.062Z - normal: Loading packages
+2016-12-20T12:18:53.066Z - normal: Watching packages
+2016-12-20T12:18:53.076Z - normal: Run Application
+2016-12-20T12:18:53.344Z - success: preview server running at http://localhost:7456
+2016-12-20T12:18:56.792Z - normal: 1.3.2
+2016-12-20T12:19:14.324Z - success: API data generated and copied to /Users/wangqiyuan/git/thief-tower-defense/creator.d.ts
+2016-12-20T12:39:11.600Z - success: API data generated and copied to /Users/wangqiyuan/git/thief-tower-defense/creator.d.ts
+2016-12-20T12:53:27.559Z - normal: Compiled successfully
+2016-12-20T12:53:34.902Z - success: VS Code extension installed to /Users/wangqiyuan/.vscode/extensions
